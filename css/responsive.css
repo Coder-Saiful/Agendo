@@ -1,0 +1,216 @@
+
+@media(max-width: 479.98px){
+    
+    .footer_social_icon a{
+        margin-bottom:15px !important;
+    }
+    .footer_content p{
+        margin-top:10px;
+    }
+    
+}
+
+/*// Extra small devices (portrait phones, less than 576px)*/
+@media(max-width: 575.98px) { 
+
+    #banner_part {
+        padding: 170px 0;
+    }
+    #particles-js {
+        margin-top: -170px;
+    }
+    .banner_text h1{
+        font-size: 50px;
+    }
+    .navbar {
+        padding: 10px 0px;
+    }
+    .navbar .container{
+        padding:0 16px;
+    }
+    .openNav{
+        display: block;
+    }
+    #about_part {
+        padding: 60px 0;
+    }
+    .about_head_text h2 {
+        margin-bottom: 60px;
+    }
+    .about_text p{
+        padding:0;
+    }
+    .about_text{
+        margin-top: 50px;
+    }
+    #portfolio_part {
+        padding-top: 60px;
+    }
+    #twitter_part {
+        padding: 60px 0px;
+    }
+    #team_part {
+        padding: 60px 0px;
+    }
+    #service_part {
+        padding: 60px 0px;
+    }
+    #blog_part {
+        padding: 60px 0px;
+    }
+    .blog_image img {
+        width: 100%;
+    }
+    .blog_text {
+        margin-top: 50px;
+    }
+    #contact_part {
+        padding-top: 80px;
+        padding-bottom: 70px
+    }
+    .contact_right {
+        margin-top: 50px;
+    }
+    .footer_social_icon a {
+        width: 50px;
+        height: 50px;
+        line-height: 45px;
+        font-size: 20px;
+        margin-right: 10px;
+    }
+
+
+}
+
+
+
+
+
+/*// Small devices (landscape phones, 576px and up)*/
+@media(min-width: 576px) and (max-width: 767.98px) { 
+
+    #banner_part {
+        padding: 200px 0;
+    }
+    #particles-js {
+        margin-top: -200px;
+    }
+    .navbar {
+        padding: 10px 0px;
+    }
+    .openNav{
+        display: block;
+    }
+    #about_part {
+        padding: 60px 0;
+    }
+    .about_head_text h2 {
+        margin-bottom: 60px;
+    }
+    .about_text p{
+        padding:0;
+    }
+    .about_text{
+        margin-top: 50px;
+    }
+    #portfolio_part {
+        padding-top: 60px;
+    }
+    #twitter_part {
+        padding: 60px 0px;
+    }
+    #team_part {
+        padding: 60px 0px;
+    }
+    #service_part {
+        padding: 60px 0px;
+    }
+    #blog_part {
+        padding: 60px 0px;
+    }
+    .blog_image img {
+        width: 100%;
+    }
+    .blog_text {
+        margin-top: 50px;
+    }
+    #contact_part {
+        padding-top: 80px;
+        padding-bottom: 70px
+    }
+    .contact_right {
+        margin-top: 50px;
+    }
+    .footer_social_icon a {
+        width: 60px;
+        height: 60px;
+        line-height: 55px;
+        font-size: 20px;
+        margin-right: 17px;
+    }
+
+
+}
+
+
+
+
+
+/*// Medium devices (tablets, 768px and up)*/
+@media(min-width: 768px) and (max-width: 991.98px) { 
+
+    #banner_part{
+        padding:330px 0;
+    }
+    #particles-js {
+        margin-top: -330px;
+    }
+    .navbar {
+        padding: 10px 0px;
+    }
+    .openNav{
+        display: block;
+    }
+    .about_text p{
+        padding:0;
+    }
+    .about_text{
+        margin-top: 50px;
+    }
+    .blog_image img{
+        width:100%;
+    }
+    .blog_text {
+        margin-top: 50px;
+    }
+    .contact_right h2{
+        margin-top:40px;
+    }
+
+
+}
+
+
+
+
+
+/*// Large devices (desktops, 992px and up)*/
+@media(min-width: 992px) and (max-width: 1199.98px) { 
+
+
+
+}
+
+
+
+
+
+/*// Extra large devices (large desktops, 1200px and up)*/
+@media(min-width: 1200px) { 
+
+
+
+}
+
+
+
